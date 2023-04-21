@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_mockup", "API_mockup\API_mockup.csproj", "{17597336-9BB5-4ADD-9C87-51F2AA911E49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17597336-9BB5-4ADD-9C87-51F2AA911E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17597336-9BB5-4ADD-9C87-51F2AA911E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17597336-9BB5-4ADD-9C87-51F2AA911E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17597336-9BB5-4ADD-9C87-51F2AA911E49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4191F24A-60FE-4EA2-AFD4-BA9009319B03}
+	EndGlobalSection
+EndGlobal
